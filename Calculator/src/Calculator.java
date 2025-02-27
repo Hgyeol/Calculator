@@ -167,8 +167,6 @@ public class Calculator extends JFrame {
 				}
 				else {
 					prev = current;
-//					equation.add(0, "0");
-//					equation.add(1, "+");
 				}
 			}
 //			prev = Math.round(prev*100000) / 100000.0;
